@@ -1,0 +1,3 @@
+/mnt/d/the_remote_city/man/Round2/DarwinTest/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/the_remote_city/man/Round2/DarwinTest/build/CMakeFiles/edit_cache.dir
+/mnt/d/the_remote_city/man/Round2/DarwinTest/build/CMakeFiles/main.dir
