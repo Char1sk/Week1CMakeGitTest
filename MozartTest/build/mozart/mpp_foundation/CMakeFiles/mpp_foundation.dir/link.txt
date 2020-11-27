@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmpp_foundation.a  CMakeFiles/mpp_foundation.dir/src/timer.cpp.o
+/usr/bin/ranlib libmpp_foundation.a

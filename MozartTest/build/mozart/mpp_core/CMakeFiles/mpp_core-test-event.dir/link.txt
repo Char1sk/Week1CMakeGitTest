@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mpp_core-test-event.dir/tests/test-event.cpp.o  -o mpp_core-test-event libmpp_core.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmpp_string.a  CMakeFiles/mpp_string.dir/src/dummy.cpp.o
+/usr/bin/ranlib libmpp_string.a

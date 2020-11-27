@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mpp_core-test-type_traits.dir/tests/test-type_traits.cpp.o  -o mpp_core-test-type_traits libmpp_core.a 

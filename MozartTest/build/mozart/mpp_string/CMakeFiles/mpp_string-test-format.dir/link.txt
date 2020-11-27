@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mpp_string-test-format.dir/tests/test-format.cpp.o  -o mpp_string-test-format libmpp_string.a ../mpp_foundation/libmpp_foundation.a ../mpp_core/libmpp_core.a 

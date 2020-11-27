@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmpp_system.a  CMakeFiles/mpp_system.dir/src/process.cpp.o CMakeFiles/mpp_system.dir/src/process_unix.cpp.o CMakeFiles/mpp_system.dir/src/process_win32.cpp.o
+/usr/bin/ranlib libmpp_system.a

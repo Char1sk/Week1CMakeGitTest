@@ -1,3 +1,6 @@
 [submodule "darwinTest/darwin"]
 	path = darwinTest/darwin
 	url = https://github.com/mikecovlee/darwin.git
+[submodule "MozartTest/mozart"]
+	path = MozartTest/mozart
+	url = https://github.com/libmozart/mozart.git

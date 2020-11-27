@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mpp_foundation-test-stream.dir/tests/test-stream.cpp.o  -o mpp_foundation-test-stream libmpp_foundation.a ../mpp_core/libmpp_core.a 

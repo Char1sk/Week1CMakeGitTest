@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mpp_foundation-bench-any.dir/tests/benchmark-any.cpp.o  -o mpp_foundation-bench-any ../mpp_core/libmpp_core.a libmpp_foundation.a ../mpp_core/libmpp_core.a 

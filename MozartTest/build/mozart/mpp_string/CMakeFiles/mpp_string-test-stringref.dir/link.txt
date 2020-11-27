@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mpp_string-test-stringref.dir/tests/test-stringref.cpp.o  -o mpp_string-test-stringref libmpp_string.a ../mpp_foundation/libmpp_foundation.a ../mpp_core/libmpp_core.a 
