@@ -4,3 +4,6 @@
 [submodule "MozartTest/mozart"]
 	path = MozartTest/mozart
 	url = https://github.com/libmozart/mozart.git
+[submodule "CurlTest/curl"]
+	path = CurlTest/curl
+	url = https://github.com/curl/curl.git
